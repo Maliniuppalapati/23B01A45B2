@@ -1,0 +1,74 @@
+{
+  "priorityInbox": [
+    {
+      "ID": "dc8d0616-073f-4f93-ac74-df3ac0203d9f",
+      "Type": "Placement",
+      "Message": "CSX Corporation hiring",
+      "Timestamp": "2026-06-25 04:54:52",
+      "priorityScore": 31782343492000
+    },
+    {
+      "ID": "5cf68134-f355-44c7-a655-16f4bcf7ed94",
+      "Type": "Placement",
+      "Message": "Visa Inc. hiring",
+      "Timestamp": "2026-06-25 03:25:01",
+      "priorityScore": 31782338101000
+    },
+    {
+      "ID": "d66ef701-c666-4335-8fb5-ad4099b53b85",
+      "Type": "Placement",
+      "Message": "Apple Inc. hiring",
+      "Timestamp": "2026-06-25 01:56:13",
+      "priorityScore": 31782332773000
+    },
+    {
+      "ID": "4e51cb1f-6703-44b5-9001-cbb8049f6584",
+      "Type": "Placement",
+      "Message": "Berkshire Hathaway Inc. hiring",
+      "Timestamp": "2026-06-24 22:23:31",
+      "priorityScore": 31782320011000
+    },
+    {
+      "ID": "311ddcee-8ca7-47c6-9926-347425347419",
+      "Type": "Placement",
+      "Message": "CSX Corporation hiring",
+      "Timestamp": "2026-06-24 21:54:34",
+      "priorityScore": 31782318274000
+    },
+    {
+      "ID": "b8108226-347c-47b6-b1de-313ef3e4509b",
+      "Type": "Placement",
+      "Message": "Alphabet Inc. Class C hiring",
+      "Timestamp": "2026-06-24 20:25:28",
+      "priorityScore": 31782312928000
+    },
+    {
+      "ID": "75293a24-80a0-4f6c-89b4-ca67ae72b49f",
+      "Type": "Placement",
+      "Message": "Booking Holdings Inc. hiring",
+      "Timestamp": "2026-06-24 19:54:43",
+      "priorityScore": 31782311083000
+    },
+    {
+      "ID": "4bd1e184-4ac7-43db-8f33-7746ff40f1ff",
+      "Type": "Placement",
+      "Message": "Amgen Inc. hiring",
+      "Timestamp": "2026-06-24 15:23:58",
+      "priorityScore": 31782294838000
+    },
+    {
+      "ID": "bf42e2f3-d977-449e-a1db-b2ff8224d769",
+      "Type": "Placement",
+      "Message": "Amazon.com Inc. hiring",
+      "Timestamp": "2026-06-24 10:24:07",
+      "priorityScore": 31782276847000
+    },
+    {
+      "ID": "06467282-1ac7-4580-8b85-5da22bf85c34",
+      "Type": "Result",
+      "Message": "project-review",
+      "Timestamp": "2026-06-24 20:25:10",
+      "priorityScore": 21782312910000
+    }
+  ]
+}
